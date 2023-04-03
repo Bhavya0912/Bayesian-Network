@@ -72,7 +72,7 @@ options ={
 "font_size": 16,
 "node_size": 4000,
 "node_color": "white",
-"edgecolors": "black",
+"edgecolors": "blue",
 "edge_color": "red",
 "linewidths": 5,
 "width": 5,
@@ -86,7 +86,8 @@ plt.axis("off")
 plt.show()
 ```
 ## OUTPUT
-![APP AI EXP-1](https://user-images.githubusercontent.com/75235293/229413515-0f66982e-680a-4813-9458-bf67bd99d19e.png)
+![image](https://user-images.githubusercontent.com/75235293/229415371-5e8b2959-d85e-465a-be27-9c56fb3d7719.png)
+
 
 
 ## RESULT
